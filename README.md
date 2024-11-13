@@ -73,4 +73,4 @@ El dataset incluye información de 4,000 clientes con las siguientes caracterís
 1. *Clonar el Repositorio*:
    
 bash
-   git clone https://github.com/usuario/model-fit
+   git clone [https://github.com/usuario/model-fit](https://github.com/jajt19/Model-Fitness)
